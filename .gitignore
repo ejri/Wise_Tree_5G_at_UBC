@@ -1,0 +1,12 @@
+config.json
+avs-device-sdk
+build
+db
+sounds
+third-party
+genConfig.sh
+pi.sh
+setup.sh
+startpreview.sh
+startsample.sh
+test.sh
