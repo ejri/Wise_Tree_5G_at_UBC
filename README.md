@@ -14,9 +14,4 @@ What would a project be if we didn't take construction into account? We're also 
 
 # Setup Architecture 
 
-<<<<<<< HEAD
 [talking_tree.png!]
-=======
-
-
->>>>>>> ee0edaeb81dbeebbf5372366189799f329fabbee
