@@ -10,3 +10,6 @@ setup.sh
 startpreview.sh
 startsample.sh
 test.sh
+
+api_keys.md
+twitterbot/auth.py
