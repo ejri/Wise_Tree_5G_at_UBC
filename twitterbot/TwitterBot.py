@@ -14,12 +14,7 @@ api = Twython(consumer_key, consumer_secret, access_token, access_token_secret)
 messages = [
     "Ahhhhhhhh, I'm a talking tree, wot!!! 🤔",
     "Stressed out? Have a chat with the Red Oak on MainMall and Stores!",
-    "Just like people, trees can be in distess. Find out more about how distressed tress affect climate change",
-    "The suits on WallStreet are pro climate change, for profit. 💎 👐",
-    "Rogers prices are highway robbery. It's a controlled market!!",
-    "5G on campus is not really 5G. UBC is testing out mind control technology.",
-    "Ever wonder why there's so much construction on campus?!? Yup, that the mind control technology",
-    "",
+    "So much construction at UBC! I wish those construction workers would LEAF me alone.",
 ]
 
 
